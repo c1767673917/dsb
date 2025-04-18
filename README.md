@@ -76,3 +76,43 @@ python manage.py runserver
 ## 许可证
 
 MIT 
+
+----------------------
+Create a comprehensive management system for PVE (Proxmox Virtual Environment) VPS hosting with the following key requirements:
+
+1. IP Address Management System:
+- Implement automated IP allocation and tracking
+- Create IP pools for different network segments
+- Monitor IP usage and availability
+- Generate reports on IP utilization
+- Enable IP reservation and release functionality
+
+2. VPS Automation:
+- Develop automated VPS provisioning workflow
+- Include resource allocation (CPU, RAM, storage)
+- Support multiple OS templates
+- Enable automatic network configuration
+- Implement automated backup solutions
+
+3. Operating System Installation:
+- Create automated OS installation scripts
+- Support major Linux distributions and Windows
+- Enable custom OS template management
+- Include post-installation configuration options
+- Implement validation and error handling
+
+4. Management Interface Requirements:
+- User-friendly web dashboard
+- Real-time monitoring capabilities
+- Resource usage statistics
+- Automated alert system
+- Multi-user access with role-based permissions
+
+Technical Specifications:
+- Use RESTful API for system integration
+- Implement secure authentication
+- Include detailed logging and audit trails
+- Support scalability for future expansion
+- Ensure compatibility with latest PVE version
+
+Please provide a detailed solution addressing these requirements while ensuring security, reliability, and ease of maintenance.
